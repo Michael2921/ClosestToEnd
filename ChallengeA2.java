@@ -38,7 +38,7 @@ public class ChallengeA2 {
         int count2;
         int min = 0;
         int max = array.length -1;
-        // find number of occurrences of num
+        
         for(count = 0; count < array.length - 1; count++){
             if(array[count] == num){
                 anscount = count;
