@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class ChallengeA2 {
     public static void main(String[] args) {
         int myArray[] = new int[]{1,2,3,4,5};
